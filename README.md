@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @ctnguyen0811
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+ctnguyen0811/ctnguyen0811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Giới thiệu website link4unews.com:
+
+Tên trang web: link4unews
+
+Tên miền: https://www.link4unews.com/
+
+Slogan: link4unews | game news, new trailer, hot news, Link news
